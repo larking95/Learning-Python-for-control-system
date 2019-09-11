@@ -2,7 +2,7 @@
 These are my python scripts for control system design and analysis.
 And also some Machine-Learning exercises are included.
 
-## To see more details
+## To see more details (I will write in the future)
 My blog articles are available on Qiita (only in Japanese now).
 I write the details of these codes there(*e.g.* mathematical backgrounds).
 
